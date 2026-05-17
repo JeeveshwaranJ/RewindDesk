@@ -44,7 +44,7 @@ Inspired by the clean, dense, grid-based layouts of late 90s operating systems (
 Getting RewindDesk up and running takes less than 30 seconds:
 
 1. Navigate to the **[Releases](https://github.com/)** section of this GitHub repository.
-2. Under the latest release, download the Windows setup executable: **`rewinddesk-1.0.0-setup.exe`**.
+2. Under the latest release, download the Windows setup executable: **`rewinddesk-v1.0.0-setup.exe`**.
 3. Open and run the installer.
 4. The application will immediately install itself, launch the main dashboard, and register a silent tray icon in the bottom right corner of your Windows Taskbar.
 5. **Auto-Start**: By default, RewindDesk registers itself to start silently when Windows boots up so you never have to remember to log your hours manually. You can disable this anytime in the **PRIVACY** settings panel.

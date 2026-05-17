@@ -59,23 +59,7 @@ Getting RewindDesk up and running takes less than 30 seconds:
 
 ---
 
-## 🛠️ Developer Setup (Local Compilation)
 
-If you want to run the project from source or compile the package yourself, make sure you have **Node.js** and **Python** (for native binary compilation) installed:
-
-### 1. Install Dependencies
-```bash
-npm install
-```
-
-### 2. Run Development Server
-```bash
-npm run dev
-```
-
-### 3. Compile Windows Package (.EXE Setup)
-This compiles and bundles all native C++ tracking binaries and databases into a portable NSIS installer:
-```bash
 npm run build:win
 ```
 The compiled installer will be available inside the `dist/` directory as `rewinddesk-1.0.0-setup.exe`.

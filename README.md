@@ -14,7 +14,7 @@ RewindDesk is **not** employee monitoring software, **not** a keylogger, and **n
 * **🚫 NO Keystroke Logging**: Never records what you type, preventing passwords or inputs from being intercepted.
 * **🚫 NO Microphone Access**: Never listens to your audio.
 * **🚫 NO Cloud Syncing**: There is **no database server and no cloud**. 100% of your data remains inside your own physical hard drive.
-* **⚡ Ultra-Lightweight**: Optimised for "potato PCs" — it polls efficiently in the background using minimal CPU cycles and RAM.
+* **⚡ Ultra-Lightweight**: Optimised — it polls efficiently in the background using minimal CPU cycles and RAM.
 
 ---
 

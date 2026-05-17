@@ -58,8 +58,3 @@ Getting RewindDesk up and running takes less than 30 seconds:
 * **Wiping Data**: Click **`[FORMAT VAULT]`** inside the Privacy settings to immediately wipe and format your local SQLite tables permanently.
 
 ---
-
-
-npm run build:win
-```
-

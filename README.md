@@ -62,4 +62,4 @@ Getting RewindDesk up and running takes less than 30 seconds:
 
 npm run build:win
 ```
-The compiled installer will be available inside the `dist/` directory as `rewinddesk-1.0.0-setup.exe`.
+
